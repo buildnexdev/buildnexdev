@@ -1,11 +1,3 @@
-# Hi 👋 Welcome to BuildNex
-
-🚀 **Buildnex — Where ideas turn into scalable digital products**
-
-💻 We specialize in building modern **Web Applications, Mobile Apps, and Business Management Systems.**
-
-📍 Chennai, India
-
 <h1 align="center">🚀 BuildNex</h1>
 <h3 align="center">Where Ideas Turn Into Scalable Digital Products</h3>
 
